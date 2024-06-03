@@ -1,6 +1,6 @@
 # Docker入门笔记
 
-# 一、Docker简介
+## 一、Docker简介
 
 ### 1. Docker是什么？
 

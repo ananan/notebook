@@ -1,8 +1,9 @@
 # Linux常用命令
 
-# 一、性能篇![Linux性能查看工具图览](./img/linux_observability_tools.png)
+## 一、性能篇
+![Linux性能查看工具图览](./img/linux_observability_tools.png)
 
-## 1. netstat
+
 
 ### 查看主机开放的端口
 
